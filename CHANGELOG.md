@@ -9,3 +9,7 @@
 - Validación del controlador y errores de lectura y escritura explícitos.
 - Sustitución de la prueba prototipo que fallaba y adición de pruebas de regresión.
 - README por proyecto, informe PDF y Markdown, evidencias locales y flujo de CI.
+
+## Informe de investigación
+
+Se sustituye el informe de revisión técnica por el informe completo de investigación sobre GitHub, Git y Git Bash. Incluye metodología, conceptos, comandos, colaboración, práctica, resultados, enlaces a fuentes y entregas de los ejercicios. Se agregan los cinco ZIP con sus nombres originales.

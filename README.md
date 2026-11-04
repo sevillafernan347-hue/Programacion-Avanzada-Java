@@ -22,10 +22,16 @@ mvn exec:java
 
 Los gráficos requieren una sesión gráfica. Los proyectos son independientes y cada uno tiene su pom.xml.
 
+## Informe y entregas
+
+El informe reúne la investigación, los comandos, el procedimiento de publicación y los enlaces de los cuatro ejercicios.
+
+Los ZIP conservan sus nombres originales y están disponibles en [entregas](entregas/).
+
 ## Documentación
 
-- [Informe técnico PDF](docs/Informe_revision_Java.pdf)
-- [Informe editable en Markdown](docs/Informe_revision_Java.md)
+- [Investigación sobre GitHub, Git y Git Bash](docs/Informe_GitHub_Git_GitBash.pdf)
+- [Informe editable en Markdown](docs/Informe_GitHub_Git_GitBash.md)
 - [Resultados y evidencias locales](docs/evidencias/)
 - [Cambios realizados](CHANGELOG.md)
 
