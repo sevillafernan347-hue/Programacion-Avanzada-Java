@@ -1,0 +1,26 @@
+[
+  {
+    "proyecto": "ProcesamientoAsincrono",
+    "pruebas": 3,
+    "fallos": 0,
+    "errores": 0
+  },
+  {
+    "proyecto": "RepocitorioGenerico",
+    "pruebas": 4,
+    "fallos": 0,
+    "errores": 0
+  },
+  {
+    "proyecto": "RepositorioGenerico_Avanzada1",
+    "pruebas": 3,
+    "fallos": 0,
+    "errores": 0
+  },
+  {
+    "proyecto": "SISTEMA-GESTION-DE-EMPLEADOS",
+    "pruebas": 4,
+    "fallos": 0,
+    "errores": 0
+  }
+]

@@ -1,0 +1,5 @@
+**/target/
+**/nbproject/private/
+**/empleados.txt
+*.log
+!docs/evidencias/**/*.log
